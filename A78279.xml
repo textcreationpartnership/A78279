@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Thomas Violet citizen and goldsmith of London, before the honourable committee of Parliament, for regulating the abuses in making gold and silver wyre, and lace.</title>
+            <author>Violet, Thomas, fl. 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78279</idno>
+            <idno type="STC">Wing C1190dA</idno>
+            <idno type="STC">ESTC R173503</idno>
+            <idno type="EEBO-CITATION">45504394</idno>
+            <idno type="OCLC">ocm 45504394</idno>
+            <idno type="VID">171696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171696)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2587:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Thomas Violet citizen and goldsmith of London, before the honourable committee of Parliament, for regulating the abuses in making gold and silver wyre, and lace.</title>
+                  <author>Violet, Thomas, fl. 1634-1662.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Precious metals --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:171696:1" rendition="simple:additions"/>
+            <head>THE CASE OF Thomas Violet Citizen AND GOLDSMITH OF LONDON, Before the Honourable Committee of PARLIA<g ref="char:EOLhyphen"/>MENT, for Regulating the abuſes in making Gold and Silver Wyre, and Lace.</head>
+            <opener>Humbly Sheweth,</opener>
+            <div type="preamble">
+               <p>
+                  <seg rend="decorInit">T</seg>Hat, in <hi>January</hi> 1634. the Wardens and ſome of the Com<g ref="char:EOLhyphen"/>pany of Goldſmiths, petitioned the Late King <hi>CHARLES</hi> of bleſſed memory, and His Privie Councel, touching the detriment which aroſe by the undue practices of the Gold Refiners and Wiredrawers in the unlawfull conſumption of a great Maſſe of Silver made yearly into Wire for Gold and Silver Lace and Thread, <hi>&amp;c.</hi>
+               </p>
+               <p>The Lords of His Majeſties Privie Councel Ordered them to attend the At<g ref="char:EOLhyphen"/>torney General, to the end the Stat. of <hi>H.</hi> the 7. made againſt the ſame abuſes might be put in execution.</p>
+               <p>There being a complaint of many abuſes in ſelling and making Gold and Sil<g ref="char:EOLhyphen"/>ver Lace; the King commanded me and ſom others, to buy up ſmall parcells of Gold and Silver Lace, Spangles, Wire, and to aſſay the ſame.</p>
+               <p>Mr
+<pb facs="tcp:171696:2"/>
+                  <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:171696:2"/> in the 14. year of his ſaid Reign, did grant to your Petitioner the Office for rectifying the abuſes aforeſaid for three lives, whereof your Petitioner and one other are yet in being; as by the Coppy of the Record exemplyfied under the Great Seal appeareth, which I here humbly preſent.</p>
+               <p>That, His ſaid late Majeſtie intending the abſolute ſettlement of the office, for rectifying of the ſaid abuſes, by reaſon of the great ſervice your Petitioner had done his Maieſtie, (amongſt other things in the ſaid Letters Pattents conteined, is graciouſly pleaſed to confirm the ſaid Office on your Petitioner, notwithſtand<g ref="char:EOLhyphen"/>ing his ſaid late Majeſtie, His Heirs, or Succeſſors, ſhould at any time afterwards publiſh or make any other Proclamation, Commiſſion, or Inſtructions to alter the ſaid Letters Patents. <hi>Vide</hi> the coppy of the Letters Patents, <hi>Folio</hi> 37. 38. 39.</p>
+               <p>That, your Petitioner did for above five years execute and keep the ſaid Of<g ref="char:EOLhyphen"/>fice, the due execution of all and every the matters in the ſaid Letters Patents conteined, on the part and behalf of your Petitioner to be done and perform<g ref="char:EOLhyphen"/>ed immediately after the ſaid Petitioner received the ſaid Letters Patents, and according to the ſaid Letters Pattents did give eleven Bonds to His Majeſties uſe for performance of the ſaid Letters Patents, <hi>
+                     <g ref="char:V">Ʋ</g>iz.</hi> One Bond of the penalty of one thouſand five hundred pounds, wherein your Petitioner ſtands ſingly bound; and ten other Bonds wherein ten other ſufficient perſons ſtand ſeverally bound for your Petitioners true performance of the ſaid Letters Patents in two hundred pounds a piece, as by the Records, remaining in the Kings Majeſties Remem<g ref="char:EOLhyphen"/>brancers, appeareth.</p>
+               <p>That your Petitioner, by the occaſion of the late unhappy troubles, hath not made any benefit of his ſaid Letters Pattents, being under ſequeſtration; and is by His Councel infirmed that your Petitiners Letters Patents cannot fully take effect, unleſs confirmed by Act of Parliament.</p>
+               <p>
+                  <hi>He therefore (the premiſes tenderly conſidered) humbly prayeth, That his ſaid Letters Patents may by the Act and Favour of this pre<g ref="char:EOLhyphen"/>ſent Parliament be Ratified and Confirmed with ſuch Orders and Powers as in Juſtice you think fit, in conſideration of his right: And alſo in conſideration of his great loſſes, impriſonments, ha<g ref="char:EOLhyphen"/>zards for his Majeſty and His Royal Father, to his damage above twenty thouſand pounds, as he hath proved it by the Teſtimonies of many Witneſſes of honour, eſtates, and credit, and all of them the Kings ſuffering Servants.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>And as in duty bound ſhall pray,</hi> &amp;c. THOMAS VIOLET.</signed>
+               </closer>
+            </div>
+            <div type="argument">
+               <pb facs="tcp:171696:3"/>
+               <head>
+                  <hi>Several Reaſons humbly preſented to the Honourable Committee of Parliament, concerning the Gold and Silver Wyer-drawers, by</hi> Thomas Violet <hi>of</hi> London, <hi>Goldſmith. And againſt the con<g ref="char:EOLhyphen"/>firming by Act of Parliament, a Patent obtained from his Majesty about the</hi> 2. <hi>of Oct. in the</hi> 13. <hi>year of his Majesties Reign, for Letters Pa<g ref="char:EOLhyphen"/>tents to be paſſed, to incorporate the Trades of Re<g ref="char:EOLhyphen"/>finers of Gold and Silver, and the Gold and Silver Wyer-drawers,</hi> &amp;c.</head>
+               <p n="1">1. THat <hi>Henry Smith</hi> Esq; may be ordered to bring in to the Ho<g ref="char:EOLhyphen"/>nourable Committee the Letters Patents granted to the ſaid Society, or Corporation of Wyer-drawers, in <hi>Octob.</hi> laſt, that ſo your Honours may ſee what you grant by Act of Parliament, and what they deſire: and your Petitioner may have a copy of the ſaid Patent, to object againſt the legality of it, to put in his juſt exceptions thereunto to this Honourable Committee.</p>
+               <p n="2">2. And liberty to produce to your Honours his Majeſties Royal Fa<g ref="char:EOLhyphen"/>thers Grant under the Great Seal, to mee of the ſaid Office, dated 7. <hi>Sept.</hi> 14. <hi>Carol. primo.</hi> for the regulating all theſe abuſes.</p>
+               <p n="3">3. Thereupon your Honours may ſee my right in Law, and do me Iuſtice, according to Right and Equity, that ſo my Patent may be ap<g ref="char:EOLhyphen"/>proved on, and confirmed by Parliament, I being the firſt that diſcover<g ref="char:EOLhyphen"/>ed all the Gold-Refiners and Wyer-drawers abuſes, 1635. to King <hi>Charles</hi> the Firſt, and his Privy Councel, and for five yeares kept them in ſuch order, that all theſe Manufactures of Gold and Silver wyer and thred, was made as the Plate or money of the Kingdome, and I will by Gods aſſiſtance reduce them to the ſame order again.</p>
+               <p n="4">4. Whereas now there is nothing but diſorder and deceit in the ma<g ref="char:EOLhyphen"/>king all theſe manufactures, neither hath <hi>Henry Nevel</hi> skill to mend theſe abuſes; it is a trick of the Wyer-drawers, to abuſe the Kingdome as
+<pb n="5" facs="tcp:171696:3"/> they did formerly, to procure a Corporation by Act of Parliament, to cozen the Kingdome.</p>
+               <p n="5">5. Upon view of my Patent under the Great Seal, your Honours will ſee his now Majeſty hath been miſ-informed, and abuſed in his Grant; for I have all the power granted twenty four yeares ago, under the Great Seal of <hi>England,</hi> and I humbly hope having ſuffered twenty thou<g ref="char:EOLhyphen"/>ſand pounds loſſe and eight yeares impriſonment, being robbed of al<g ref="char:EOLhyphen"/>moſt all I have in the world, I ſhall not after all my Troubles be flayed alive by <hi>Henry Nevel</hi> Esq; of my office, which I executed for five years, and know as well how to regulate theſe trades, and every branch there<g ref="char:EOLhyphen"/>of, as any man in <hi>England.</hi> Indeed the Gold wyer-drawers think I know too much for them, and therefore they deſire <hi>Nevel Smith</hi> Esq; who they can lead by the noſe, by reaſon of his ignorance in this buſi<g ref="char:EOLhyphen"/>neſſe, who hath unduely obtained the Kings Patent.</p>
+               <p n="6">6. Mr. <hi>Nevel</hi> is like Dean <hi>Murrey</hi> in King <hi>James</hi>'s time, he loved to get into Church livings, but could not preach; <hi>Nevel Smith</hi> loves to get my office for nothing, which is worth about one thouſand pounds a year, ſo much for ſeveral yeares I made of it, and coſt mee above three thou<g ref="char:EOLhyphen"/>ſand four hundred pound to his late Majeſty, and great Officers of State.</p>
+               <p n="7">7. There is in this act a power that <hi>Henry Nevel,</hi> his Executors, and Adminiſtrators, ſhall Aſſay all ſilver, and all ſilver ſhall be brought to one place, and to take Conſtables, and ſeize all gold and ſilver lace, which he, his Executors, &amp;c. ſhall find to be courſ ſilver. Surely this Gentleman hath been a Goldſmith or a Refiner, that ſo great a skill and truſt muſt be placed in his hands, when we find him altogether ignorant in every branch of this profeſſion. After-ages will not believe ſo much ignorance and confidence to be in a perſon of quality, to pretend to that he doth not underſtand: nor I believe his Executors nor Adminiſtra<g ref="char:EOLhyphen"/>tors, to take away my right. I beſeech your Honours obſerve.</p>
+               <p n="8">8. If the Goldſmiths that go to the mint with their gold or ſilver to coyne, ſhould be their own aſſay-maſters, the Kings money would hard<g ref="char:EOLhyphen"/>ly be ſtandard: if the ſilver-workers made aſſay of their own plate, no wiſe man will think it would be ſterling. Theſe Wyer-drawers are now at their own wills to make their ſilver at what fineneſſe they pleaſe, put in as much ſilk to ſilver as they pleaſe; they have melted down all the heavy money in the Kingdom, to the great ruine of the Kingdom; they hinder the Kings Mint by out-buying the ſame: and ſhould they now get this Corporation, and have an ignorant governour, that is no Artiſt, as <hi>Henry Nevel</hi> Esq; labours to obtain, whereas formerly they committed
+<pb n="6" facs="tcp:171696:4"/> one fraud, they will by authority of Parliament, be out of the gun-ſhot of the law.</p>
+               <p n="9">9. The Wiredrawers are angry with me becauſe I have formerly ſtrict<g ref="char:EOLhyphen"/>ly tied them to make good gold and ſilver wire, and thread; if they work according to the Law I cannot hurt them, but if they abuſe the Kingdom in ſlight and baſe Manufactures, my ſecurity and my ſelf muſt make it good, we are bound in the Exchequer to do it; and therefore I have, and ſhall prevent them to my power. They would have Mr. <hi>Nevil</hi> in my place that hath no skill, and then they would cozen the Kingdome as ſome of them have done formerly; by this act of Parliament, the Wardens and Aſſiſtants have the power to do what they liſt; Mr. <hi>Nevil</hi> is but named as a cypher to get their Charter by his Friends.</p>
+               <p>Your Petitioners humble prayer is, that by your Honours Juſtice for his Ma<g ref="char:EOLhyphen"/>jeſties ſervice, this Manufacture be put under ſome ſtrict Rule and Order, and that nothing may paſſe under your Honours hands that may preiudice your Pe<g ref="char:EOLhyphen"/>titioners Grant which he hath under the great Seal of <hi>England,</hi> for the regula<g ref="char:EOLhyphen"/>ting the ſaid Manufacture.</p>
+               <p>I have humbly to recommend to your Honours great wiſdom, the due con<g ref="char:EOLhyphen"/>ſideration of theſe ſeveral following heads, and humbly leav them at your Ho<g ref="char:EOLhyphen"/>nours feet; and though they may not pleaſe the Wire-drawers, yet I am ſure they be for his Maieſties ſervice. It is true, there is twenty thouſand ſouls in <hi>London,</hi> live, and have dependance on this Manufacture, and that made King <hi>Iames</hi> and King <hi>Charles</hi> ſuffer this Manufacture to be made here.</p>
+               <p>It is worthy of conſideration, the great damage his Maieſty ſuſtains in the loſſe of his Cuſtoms, the loſſe and preiudice of his Maieſties Mint, by ſuffering the ſilver after it is imported into this Kingdom, to be made into Silver Lace, &amp;c. to be diverted from Coine, which would pay a duty of coynage, and aug<g ref="char:EOLhyphen"/>ment the ſtock of the Kingdome, which is now converted into this Manufacture: the valew imployed in Gold and Silver yearly, is about one hundred thouſand pounds a year in Gold and ſilver Lace, Wire, &amp;c. which was it converted into coine every year, and ſo paſſed between men, would drive a million for commo<g ref="char:EOLhyphen"/>dities a year in Trade, to the great improvement of the Kingdome by Com<g ref="char:EOLhyphen"/>merce and Trade.</p>
+               <p>That upon calculation it will be found, the King in point of Cuſtoms his loſſes about ten thouſand pounds a year, by ſuffering this Manufacture to be made in <hi>England,</hi> as will appear upon calculation of his Maieſties Book of Rates of his Cuſtomes. I humblie pray the book of Rates at the Cuſtom-houſe may be viewed by your Honours, to ſee when the gold and ſilver thread payes.</p>
+               <p>That as this day by this Corporation there is no Exciſe laid on this commo<g ref="char:EOLhyphen"/>ditie, which under favour, humbly ſubmitting to your great wiſdomes, is a com<g ref="char:EOLhyphen"/>moditie may bear an Exciſe as well, and better, than almoſt any thing in the
+<pb n="7" facs="tcp:171696:4"/> Kingdome: gold and ſilver Lace is a ſuperfluitie, and it is the wearers payes the Exciſe, not the Silkmen, Wiredrawers, or other Tradeſmen: this Trade his Maieſty doth allow in favour of the poor women Spinners, and other poor peo<g ref="char:EOLhyphen"/>ple, that are above twenty thouſand ſouls, who onely have their livelyhood from this Manufacture, or elſe for the reaſons aforeſaid, it would not be allowed to be wrought in <hi>England;</hi> for as it is now made for this laſt twenty years, all the heavie currant ſilver is melted down to make this Manufacturie.</p>
+               <p>I humbly pray this offence may by Act of Parliament be made Felonie, and the ſame puniſhment for tranſporting gold and ſilver without the Kings licence, if this be not done, in a ſhort time there will neither gold nor ſilver be left in the Kingdom, all the gold in a manner is already gone, and the ſilver follows apace.</p>
+               <p>Therefore my humble Petition to your Honours is, that your Honour ſettle ſuch an exciſe on this Manufacture, at the leaſt two pence in the Ounce <hi>Troy,</hi> being ſo much as his Maieſty loſeth in the coynage of the ſame, to be approved and confirmed by the Parliament, for and towards his Maieſties loſſe in his Cuſtomes, and in his coynage, by ſuffering this Manufacture to be wrought in <hi>England;</hi> the Cuſtomes is above three times as much.</p>
+               <p>That your Honours would Order for the future, that no inferiour perſons, as ſervant-Maids, and other mechanick people, ſhall wear gold or ſilver Lace, it being an abuſe to perſons of honour, men and women, to have mechanick peo<g ref="char:EOLhyphen"/>ple and ſervants to wear gold and ſilver Lace; many ſervant Maids of four pound a year, do lay out half of it in gold and ſilver Lace, which cauſes many great in<g ref="char:EOLhyphen"/>conveniences by vanity to come to them, by lewd courſes to ſteal and pilfer their Maſters moneys.</p>
+               <p n="10">10. If Mr. <hi>Nevel</hi> be confirmed by Parliament, to be the head Of<g ref="char:EOLhyphen"/>ficer to aſſay and ſeal all gold and ſilver, if his ignorance in this office ſhould ever be complained of to his Majeſty or the Privy Coun<g ref="char:EOLhyphen"/>cel, he muſt be expelled by the ſame power that put him in; by order of Parliament to be put down.</p>
+               <p n="11">11. The aſſay-maſter of the Tower is upon his oath, the aſſay-maſter of Goldſmiths Hall is upon his oath: this act of Parliament appoints <hi>Henry Nevel</hi> to be aſſay-maſter, and to ſeize all adulterate gold and ſil<g ref="char:EOLhyphen"/>ver wyer, and <hi>Henry Nevel</hi> knowes not how to make an aſſay of gold or ſilver, nor knowes not when he ſees courſe ſilver from fine, this manu<g ref="char:EOLhyphen"/>facture will be well aſſayed by a Gentleman that is not an Artiſt in ſilver thred, wyer, or lace, how can he ſwear by another mans skill.</p>
+               <p n="12">12. Ignorant officers in places of great skill and truſt, which muſt be executed on oath, is that that abuſes the King and Kingdome: this Gen<g ref="char:EOLhyphen"/>tleman is ignorant in every branch of the trade, yet by this Act of Par<g ref="char:EOLhyphen"/>liament, is to have an <hi>ob.</hi> the ounce <hi>Troy</hi> for ſilver wyer, 2 <hi>d.</hi> the ounce
+<pb n="8" facs="tcp:171696:5"/> 
+                  <hi>Troy</hi> for ſilver foliat, 1 <hi>d.</hi> the pound <hi>Haverdupois</hi> for all copper wyer diſgroſs'd, and one moiety of all ſeizures and forfeitures: a place I pay<g ref="char:EOLhyphen"/>ed 3400 <hi>l.</hi> for, and Mr. <hi>Nevil</hi> would have it for nothing.</p>
+               <p n="13">13. And now after all my loſſes and ſufferings, this Gentleman pre<g ref="char:EOLhyphen"/>tends to my place, and if your Honours read my Patent and his, you will find I am the elder brother in my grant by above twenty yeares. And I humbly hope my experience to execute this place, ſhall be a barr to his ignorance. It is the fleece Mr. <hi>Nevel</hi> looks after, not the flock, the fees, not the regulating the abuſe; he can tell how to take and receive his fees, but knows not how to regulate the abuſes in this trade, nor to any part of the myſtery, which not well regulated, is a myſtery of iniquity.</p>
+               <p>And if you pleaſe to obſerve the Act of Parliament under examinati<g ref="char:EOLhyphen"/>on, the whole power of regulating this manufacture is lodged in the Ma<g ref="char:EOLhyphen"/>ſter, Wardens, and Aſſiſtants of the Corporation of Wyer-drawers, and <hi>Henry Nevel</hi> Esq; is but held forth as a property, by his friends, and power to get the Wyer-drawers by Act of Parliament a Corporation, the power is in the Wardens and Aſſiſtants.</p>
+               <p>And then they will ſerve the Kingdome as the Silk-men did, when they got their Corporation about 1634. the Wardens and Aſſiſtants of Silk-men were found to be the only men that cozen'd the King &amp; King<g ref="char:EOLhyphen"/>dome in heavy dyed ſilk, as was proved 1634. which cauſed the King to damn their Patent, and fine the offenders in Star-Chamber, many thouſand pounds. And ſo it was proved in Parliament 1619. Sir <hi>Giles Monparſons,</hi> and the Wardens and Aſſiſtants of the Gold wyer-drawers, cozened the Kingdome in ſelling adulterate ſilver thread and wyer, for good. The ſentence of Sir <hi>Giles Monparſons,</hi> and the cheats of the Wyer-drawers proved in Parliament, was ſo famous, that they made Ballads, ſongs, and pictures of the diſcovery of theſe abuſes, and <hi>Monparſons</hi> run<g ref="char:EOLhyphen"/>ning away about this buſineſſe. This was the end of the Gold wyer-drawers Corporation in Parliament, about 1619. as many hundreds of people in <hi>London</hi> can witneſſe, the like Project Mr. <hi>Nevel</hi> now deſires.</p>
+            </div>
+            <div rend="italic" type="conclusion">
+               <p>May it pleaſe your Honours, to make an Act to ſettle the power on his Majeſty, and any ſix of the Privy Councel from time to time to make ſuch Commiſſions and Orders, as they in their great Wiſdoms ſhall think fit, to regulate the Traders, and reforme the abuſes, with a power to commit and puniſh the Offendors; and to impoſe ſuch ſums of mony upon the Manufacture, for, and towards the loſſe his Majeſtie ſuſtains in his Cuſtomes, as his Majeſty and his Privy Councel ſhall think fit, not ex<g ref="char:EOLhyphen"/>ceeding <hi>2d.</hi> the ounce <hi>Troy</hi> for all ſilver wyre diſgroſſed, and the fees already allowed by Patent to your Petitioner for warranting the ſame to be made all of good ſilver wyre, not under Sterling, nor to draw no ſilver for any of theſe Manufactures before it be duly Aſſayed and Regiſtred; and a due accompt given to his Majeſty. This is a ſure way to regulate all theſe abuſes, without which the Wiredrawer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cannot poſſibly among themſelvs be kept in any order, being a great many neceſſita<g ref="char:EOLhyphen"/>ted people, which without power will not be kept in compaſs, being in number above <hi>15.</hi> thouſand that have a livelyhood by this Manufacture; the Corporation the Wyredrawers now deſire, will be as the former was <hi>1619.</hi> if the King and his Privy Councel have not the power and ordering there<g ref="char:EOLhyphen"/>of by Act of Parliament to reforme all the aforeſaid abuſes, and puniſh the Offendors; What the KING commands I will ſee duly obſerved.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171696:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
